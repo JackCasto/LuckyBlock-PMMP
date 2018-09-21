@@ -2,7 +2,7 @@
 load: POSTWORLD
 main: LuckyBlock\Main
 name: LuckyBlock
-api: 2.0.0
+api: 3.2.0
 author: georgianYT
 version: 3.1.0
 website: "https://github.com/georgianYT/LuckyBlock"
